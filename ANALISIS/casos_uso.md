@@ -30,6 +30,7 @@ Permitir al estudiante evaluar el desempeño de sus docentes al finalizar el per
 #### 🔧*Condiciones previas:*
 
 ✍️* El estudiante debe estar matriculado en el periodo vigente.
+
 ✍️* El sistema debe tener habilitado el periodo de evaluación.
 
 ---
