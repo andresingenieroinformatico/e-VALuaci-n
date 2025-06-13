@@ -21,8 +21,8 @@ Exportar resultados en formato PDF/Excel
 
 Gestión de Estudiantes
 
-✅ Crear y gestionar listas de estudiantes
-✅ Organizar estudiantes por grupos/cursos Ver historial de evaluaciones por estudiante
+Crear y gestionar listas de estudiantes
+Organizar estudiantes por grupos/cursos Ver historial de evaluaciones por estudiante
 Enviar retroalimentación personalizada
 
 Configuración Personal
