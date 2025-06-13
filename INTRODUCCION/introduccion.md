@@ -1,22 +1,10 @@
-# 📘 Introducción
 
+### **Introducción**
 
+En el contexto educativo actual, la evaluación del desempeño docente se ha convertido en una herramienta fundamental para garantizar la calidad académica y promover la mejora continua. Con el propósito de facilitar este proceso de forma estructurada, eficiente y confidencial, surge el proyecto **e-VALuacion**, cuyo objetivo principal es el desarrollo de un Sistema de Información de Evaluación Docente (SIED).
 
-## 🎯 Contexto del Proyecto
+Este sistema está diseñado para permitir que los estudiantes evalúen a sus docentes al finalizar cada periodo académico, brindando retroalimentación sobre aspectos clave como la claridad en la explicación de los temas, la puntualidad, el dominio de la materia y la interacción pedagógica. El proceso se llevará a cabo mediante un portal web accesible, seguro y fácil de usar, donde cada estudiante podrá completar evaluaciones de forma anónima, asegurando así la sinceridad de las respuestas.
 
-Dentro del curso **Análisis y Diseño** del programa de **Ingeniería Informática**, se ha desarrollado un proyecto colaborativo denominado **“e-VALuacion”**. Esta herramienta tiene como objetivo principal mejorar los procesos de evaluación docente a través de una solución digital eficiente y accesible.
+El desarrollo del sistema se abordará en seis fases estratégicas que incluyen el análisis de requerimientos, diseño de arquitectura, implementación backend y frontend, pruebas exhaustivas y finalmente el despliegue en un entorno de producción. Cada etapa está planificada cuidadosamente en un cronograma de 14 semanas que permite un avance progresivo y controlado del proyecto.
 
-El proyecto representa una oportunidad valiosa para que los estudiantes apliquen conceptos esenciales del **control de versiones distribuido** con **Git** y **GitHub**, al mismo tiempo que fortalecen habilidades de trabajo en equipo y desarrollo de software en entornos colaborativos y simulando condiciones profesionales.
-
-
-
-## 📝 Propósito del Informe
-
-Este informe tiene como finalidad documentar de forma clara, ordenada y completa cada una de las etapas del desarrollo del proyecto **e-VALuacion**. 
-
-Desde el análisis inicial hasta las conclusiones finales, cada sección ha sido desarrollada por equipos específicos, lo cual evidencia el enfoque colaborativo del trabajo y permite reflejar los aprendizajes técnicos, metodológicos y organizativos adquiridos durante el proceso.
-
-
-
-> ⚙️ Este repositorio también contiene el código fuente, diagramas, cronogramas y documentación técnica del proyecto.
 
