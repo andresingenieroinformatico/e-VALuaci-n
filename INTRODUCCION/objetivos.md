@@ -1,14 +1,25 @@
-## Objetivos del Proyecto
+# 🎯 Objetivos del Proyecto
 
-### Objetivo General
 
-Desarrollar una herramienta digital colaborativa, denominada **e-VALuacion**, que permita facilitar, organizar y automatizar el proceso de evaluación docente, aplicando metodologías de análisis y diseño de software, junto con buenas prácticas de control de versiones distribuidas mediante **Git** y **GitHub**.
 
-### Objetivos Específicos
+## 🎯 Objetivo General
 
-- Aplicar principios de análisis de requerimientos para definir claramente las funcionalidades esenciales de la herramienta e-VALuacion.
-- Diseñar modelos de datos y diagramas arquitectónicos que representen de forma precisa la estructura del sistema.
-- Implementar un cronograma de trabajo que permita una adecuada planificación, distribución de roles y cumplimiento de tareas dentro de los equipos.
-- Utilizar herramientas de control de versiones como Git y GitHub para llevar a cabo un desarrollo colaborativo y controlado del informe y del proyecto.
-- Promover el uso correcto del lenguaje Markdown para documentar cada fase del proyecto con claridad, estructura y coherencia.
-- Consolidar las competencias técnicas y de trabajo en equipo mediante la experiencia práctica de construir un proyecto completo desde cero.
+Desarrollar una herramienta digital colaborativa llamada **e-VALuacion**, que facilite, organice y automatice el proceso de evaluación docente. Este desarrollo integrará metodologías de análisis y diseño de software, así como buenas prácticas de control de versiones distribuidas utilizando **Git** y **GitHub**.
+
+
+
+## ✅ Objetivos Específicos
+
+- 📌 **Analizar requerimientos:** Definir con claridad las funcionalidades esenciales de la herramienta **e-VALuacion** mediante principios de análisis de requerimientos.
+
+- 🧩 **Diseñar la arquitectura:** Crear modelos de datos y diagramas arquitectónicos que representen adecuadamente la estructura y funcionamiento del sistema.
+
+- 🗓️ **Planificar con cronograma:** Establecer un cronograma de trabajo que permita organizar las tareas, roles y tiempos de entrega dentro de los equipos.
+
+- 🔧 **Gestionar con Git/GitHub:** Aplicar herramientas de control de versiones distribuidas para un desarrollo colaborativo y trazable del proyecto y su documentación.
+
+- ✍️ **Documentar en Markdown:** Utilizar correctamente el lenguaje **Markdown** para crear documentación clara, estructurada y coherente en cada etapa.
+
+- 🤝 **Fortalecer competencias:** Consolidar habilidades técnicas y de trabajo en equipo a través de la experiencia de construir un proyecto completo desde cero.
+
+
